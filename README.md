@@ -1,2 +1,2 @@
 # 1022Westcott
-Household Git Repository
+We're gonna cook things.
