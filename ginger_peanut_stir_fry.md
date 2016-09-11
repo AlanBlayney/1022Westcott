@@ -1,9 +1,9 @@
 # Ginger Peanut Stir Fry
 ref: random googling
 ## Method
-### Sauce
+#### Sauce
 Whisk together ingredients, microwave or add boiling water as necessary
-### Stir-Fry
+#### Stir-Fry
 Fry tofu until browned
 Add onions, mushrooms, fry until cooked
 Add broccoli and sauce
@@ -13,7 +13,7 @@ Add broccoli and sauce
 2 cups chopped mushrooms  
 onion/garlic (optional)
 sesame oil to finish (optional)
-### Sauce
+#### Sauce
 ~1/3 cup peanut butter  
 ginger powder  
 rice vinegar  
